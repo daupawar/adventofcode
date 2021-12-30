@@ -11,11 +11,12 @@ fun main() {
     }
 
 //    fun part2(input: List<Int>): Int {
-//        val win4 = input.windowed(4)//group every 3
+//        val win4 = input.windowed(4)//group every 4
 //        return win4.count { it[0] < it[3] }
 //    }
 
-    val input = readInputAsInt("Day01")
+    val input = readInputAsInt("Day01_input")
+//    check(part1(input) == 1)
 //    var last = 0
 //    var counter = 0
 //
